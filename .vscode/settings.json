@@ -18,5 +18,6 @@
   },
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  "colorWheel.settings.workspaceColor": "hsl(135,86%,47%)"
 }
